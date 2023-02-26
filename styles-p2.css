@@ -22,7 +22,7 @@ body{
     display: inline-grid;
     grid-template-columns: 20% 4% 20% 20% 20% 20% 1fr;
     /* positioning the starting position of the content（left to right) */
-    grid-template-rows: 26vw 10vw;
+    grid-template-rows: 220% 10vw;
     /* positioning the starting position of the content (top to bottom) */
 }
 #contents-container{
